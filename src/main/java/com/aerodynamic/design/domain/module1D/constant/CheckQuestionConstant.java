@@ -1,0 +1,58 @@
+package com.aerodynamic.design.domain.module1D.constant;
+
+public class CheckQuestionConstant {
+	public static String[] RPM转速度或第一级转子叶尖切线速度 = {"RPM转速度或第一级转子叶尖切线速度","转速度(>=800)或第一级转子叶尖切线速度 RPM"};
+	public static String[] K1234 = {"K1234","K==1 或  K==3  或  K==4 且  K12==2"};
+	public static String[] PR总压比 = {"PR总压比","总压比 PR"};
+	public static String[] G流量 = {"G流量","流量 G"};
+	public static String[] PO进口总压 = {"PO进口总压","进口总压  PO"};
+	public static String[] TO进口总温 = {"TO进口总温","进口总温  TO"};
+	public static String[] EFF绝热效率 = {"EFF绝热效率","绝热效率 EFF"};
+	public static String[] KH设计压比提高量 = {"KH设计压比提高量","设计压比提高量KH"};
+	public static String[] 可填0 = {"可填0","(可填0.0,由程序算)"};
+	public static String[] ISTAGE级数 = {"ISTAGE级数","级数 ISTAGE"};
+	public static String[] KH功率存储系数 = {"KH功率存储系数","功率存储系数KH"};
+	public static String[] KPATH流路输入标识 = {"KPATH流路输入标识","流路输入标识KPATH"};
+	public static String[] KF叶型标识 = {"KF叶型标识","叶型标识KF"};
+	public static String[] KC压气机类型 = {"KC压气机类型","压气机类型 KC"};
+	public static String[] SIGO进口段总压恢复 = {"SIGO进口段总压恢复","进口段总压恢复 SIGO"};
+	public static String[] SIGV进口导叶总压恢复 = {"SIGV进口导叶总压恢复","进口段总压恢复 SIGV"};
+	public static String[] 压气机出口 = {"压气机出口","压气机出口"};
+	public static String[] DTK外径 = {"DTK外径","外径 DTK"};
+	public static String[] DHK内径 = {"DHK内径","内径 DHK"};
+	public static String[] ALFO一转进气流角 = {"ALFO一转进气流角","一转进气流角 ALFO"};
+	public static String[] 功率储备系数 = {"功率储备系数","功率储备系数 "};
+	public static String[] KH1第一级 = {"KH1第一级","第一级 KH1"};
+	public static String[] DKH逐级递减 = {"DKH逐级递减","逐级递减 DKH"};
+	public static String[] KHMIN最小值 = {"KHMIN最小值","最小值 KHMIN"};
+	public static String[] KG流量缩放系数 = {"KG流量缩放系数","流量缩放系数 KG"};
+	public static String[] ASP1一转展旋比 = {"ASP1一转展旋比","一转展旋比 ASP1"};
+	public static String[] ASPK最后级展旋比 = {"ASPK最后级展旋比","最后级展旋比 ASPK"};
+	public static String[] 最大扰度相对位置 = {"最大扰度相对位置","最大扰度相对位置:"};
+	public static String[] ABV进口导叶 = {"ABV进口导叶","进口导叶 ABV"};
+	public static String[] ABR转子叶片 = {"ABR转子叶片","转子叶片 ABR"};
+	public static String[] ABS静子叶片 = {"ABS静子叶片","静子叶片 ABS"};
+	public static String[] 进口导叶 = {"进口导叶","进口导叶:"};
+	public static String[] BTHV尖根弦长比 = {"BTHV尖根弦长比","尖根弦长比 BTHV"};
+	public static String[] ASPV展弦比 = {"ASPV展弦比","展弦比 ASPV"};
+	public static String[] BTV稠度 = {"BTV稠度","稠度 BTV"};
+	public static String[] 前压汽机 = {"前压汽机","前压汽机(机组,转接段)"};
+	public static String[] DHO出口内直径 = {"DHO出口内直径","出口内直径 DHO"};
+	public static String[] DTO出口外直径 = {"DTO出口外直径","出口外直径 DTO"};
+	public static String[] BTH1一转尖根弦长比 = {"BTH1一转尖根弦长比","一转尖根弦长比 BTH1"};
+	public static String[] λ085填10 = {"λ085填10","λ≯0.85,填1.0"};
+	public static String[] CMV进口导叶最大相对厚度 = {"CMV进口导叶最大相对厚度","进口导叶最大相对厚度 CMV"};
+	public static String[] 相对轴向间隙 = {"相对轴向间隙","相对轴向间隙:"};
+	public static String[] E1第一级 = {"E1第一级","第一级 E1"};
+	public static String[] DE最后级与第一级差 = {"DE最后级与第一级差","最后级与第一级差 DE"};
+	public static String[] 材料密度 = {"材料密度","材料密度:"};
+	public static String[] DENR转件 = {"DENR转件","转件 DENR"};
+	public static String[] DENS静件 = {"DENS静件","静件 DENS"};
+	public static String[] DENB叶片 = {"DENB叶片","叶片 DENB"};
+	public static String[] DRES转子根许用应力 = {"DRES转子根许用应力","转子根许用应力 DRES"};
+	public static String[] ALFK最后静子出口气流角 = {"ALFK最后静子出口气流角","最后静子出口气流角 ALFK"};
+	public static String[] PRO本气压机前已有压比 = {"PRO本气压机前已有压比","本气压机前已有压比 PRO"};
+	public static String[] HORDA最小弦比 = {"HORDA最小弦比","最小弦比 HORDA"};
+	
+	public static String[] K1或K3或K4且K122 = {"K1或K3或K4且K122","(K==1 或  K==3  或  K==4 且  K12==2)"};
+}
